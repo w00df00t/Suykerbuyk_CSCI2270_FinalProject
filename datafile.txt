@@ -1,0 +1,71 @@
+BOULDER,1,Shawshank Redemption,1994,3
+BOULDER,2,The Godfather,1972,6
+BOULDER,3,The Godfather: Part II,1974,5
+BOULDER,4,The Dark Knight,2008,3
+BOULDER,5,Pulp Fiction,1994,2
+BOULDER,6,12 Angry Men,1957,8
+BOULDER,7,Schindler's List,1993,3
+BOULDER,8,The Good the Bad and the Ugly,1966,2
+BOULDER,9,The Lord of the Rings: The Return of the King,2003,4
+BOULDER,10,Fight Club,1999,6
+COSPRINGS,1,Shawshank Redemption,1994,2
+COSPRINGS,2,The Godfather,1972,5
+COSPRINGS,3,The Godfather: Part II,1974,7
+COSPRINGS,4,The Dark Knight,2008,7
+COSPRINGS,5,Pulp Fiction,1994,4
+COSPRINGS,6,12 Angry Men,1957,2
+COSPRINGS,7,Schindler's List,1993,5
+COSPRINGS,8,The Good the Bad and the Ugly,1966,6
+COSPRINGS,9,The Lord of the Rings: The Return of the King,2003,15
+COSPRINGS,11,The Lord of the Rings: The Fellowship of the Ring,2001,20
+LONGMONT,1,Shawshank Redemption,1994,2
+LONGMONT,2,The Godfather,1972,1
+LONGMONT,3,The Godfather: Part II,1974,1
+LONGMONT,4,The Dark Knight,2008,10
+LONGMONT,5,Pulp Fiction,1994,6
+LONGMONT,6,12 Angry Men,1957,4
+LONGMONT,7,Schindler's List,1993,2
+LONGMONT,8,The Good the Bad and the Ugly,1966,7
+LONGMONT,9,The Lord of the Rings: The Return of the King,2003,2
+LONGMONT,12,Star Wars: Episode V - The Empire Strikes Back,1980,3
+LOVELAND,1,Shawshank Redemption,1994,2
+LOVELAND,2,The Godfather,1972,5
+LOVELAND,3,The Godfather: Part II,1974,4
+LOVELAND,4,The Dark Knight,2008,20
+LOVELAND,5,Pulp Fiction,1994,15
+LOVELAND,6,12 Angry Men,1957,6
+LOVELAND,14,Inception,2010,41
+LOVELAND,7,Schindler's List,1993,2
+LOVELAND,8,The Good the Bad and the Ugly,1966,1
+LOVELAND,9,The Lord of the Rings: The Return of the King,2003,10
+LOVELAND,13,Forrest Gump,1994,8
+FOCO,1,Shawshank Redemption,1994,20
+FOCO,2,The Godfather,1972,24
+FOCO,3,The Godfather: Part II,1974,21
+FOCO,4,The Dark Knight,2008,30
+FOCO,5,Pulp Fiction,1994,25
+FOCO,6,12 Angry Men,1957,12
+FOCO,7,Schindler's List,1993,8
+FOCO,8,The Good the Bad and the Ugly,1966,19
+FOCO,9,The Lord of the Rings: The Return of the King,2003,32
+FOCO,14,Inception,2010,41
+DENVER,1,Shawshank Redemption,1994,45
+DENVER,2,The Godfather,1972,34
+DENVER,3,The Godfather: Part II,1974,28
+DENVER,4,The Dark Knight,2008,90
+DENVER,5,Pulp Fiction,1994,34
+DENVER,6,12 Angry Men,1957,56
+DENVER,7,Schindler's List,1993,10
+DENVER,8,The Good the Bad and the Ugly,1966,16
+DENVER,9,The Lord of the Rings: The Return of the King,2003,24
+DENVER,15,One Flew Over the Cuckoo's Nest,1975,10
+CASROCK,1,Shawshank Redemption,1994,4
+CASROCK,2,The Godfather,1972,6
+CASROCK,3,The Godfather: Part II,1974,3
+CASROCK,4,The Dark Knight,2008,17
+CASROCK,5,Pulp Fiction,1994,15
+CASROCK,6,12 Angry Men,1957,4
+CASROCK,7,Schindler's List,1993,6
+CASROCK,8,The Good the Bad and the Ugly,1966,12
+CASROCK,9,The Lord of the Rings: The Return of the King,2003,25
+CASROCK,16,The Lord of the Rings: The Two Towers,2002,23
